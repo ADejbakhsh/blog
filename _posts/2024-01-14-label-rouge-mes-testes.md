@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Label rouge, mes testes
+title: Label rouge, mes tests
 date: 2024-01-14 15:31 +0100
 categories: Bouffe
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: g suis ki 
+title: chui ki 
 permalink: /about/
 ---
  

@@ -4,7 +4,7 @@ title: Arret de travail dans une societer comment remplir
 date: 2026-05-19 18:18 +0000
 ---
 
-# Le dernier jour de travail
+#### Le dernier jour de travail
 Si vous atterrissez sur cet article, c'est sûrement que vous vivez un grand moment de solitude administrative : votre salarié a eu un accident du travail dans une autre societer. *Imaginons qu'il ne travaille que le week-end, mais que l'AT(accident du travail) arrive un mardi dans sont autre societer*
 
 l'Assurance Maladie, le TESE ou Net-Entreprises: impossible d'inscrire son vrai dernier jour de travail sur les fomulaires. Il vous faudrat ecrire la date de l'AT ¯\\_(ツ)_/¯.
